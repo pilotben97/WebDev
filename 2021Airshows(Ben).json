@@ -1,0 +1,92 @@
+{
+  "title" : "Personal Airshow Calendar",
+  "seasonNum" : "2021",
+  "homeTown" : "Valdosta, Georgia",
+  "creationDate" : "2/6/2021",
+  "creatorName" : "Benjamin Dudley",
+  "active" : true,
+  "airshows" : [
+    {
+      "name" : "NAS JAX Air Show",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/10/2021",
+      "endDate" : "4/11/2021",
+      "featuring" : [
+        "USAF F-22 Raptor Demo Team",
+        "USN P-8 Poseidon Demo",
+        "Michael Goulian"
+      ],
+      "cancelled" : true,
+      "showsite" : "Naval Air Station Jacksonville",
+      "city" : "Jacksonville, FL"
+    },
+    {
+      "name" : "Sun 'n Fun Fly-In",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/13/2021",
+      "endDate" : "4/18/2021",
+      "featuring" : [
+        "USAF F-22 Raptor Demo Team",
+        "Michael Goulian",
+        "Aeroshell Aerobatic Team",
+        "Rob Holland"
+      ],
+      "cancelled" : false,
+      "showsite" : "Lakeland Linder Regional Airport",
+      "city" : "Lakeland, FL"
+    },
+    {
+      "name" : "MCAS Beaufort Air Show 2021",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/24/2021",
+      "endDate" : "4/25/2021",
+      "featuring" : [
+        "USAF F-16 Viper Demo Team",
+        "USMC AV-8B Harrier II Demo",
+        "USMC F-35B Lightning II Demo",
+        "Rob Holland"
+      ],
+      "cancelled" : false,
+      "showsite" : "Marine Corps Air Station Beaufort",
+      "city" : "Beaufort, SC"
+    },
+    {
+      "name" : "Lockheed Martin Central Florida Air and Space Show",
+      "headliner" : "USAF Thunderbirds",
+      "startDate" : "10/16/2021",
+      "endDate" : "10/17/2021",
+      "featuring" : [
+        "USAF F-35A Lightning II Demo Team",
+      ],
+      "cancelled" : false,
+      "showsite" : "Orlando Sanford International Airport",
+      "city" : "Sanford, FL"
+    },
+    {
+      "name" : "Wings Over North Georgia",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "10/30/2021",
+      "endDate" : "10/31/2021",
+      "featuring" : [
+        "USAF A-10 Thunderbolt II Demo Team",
+        "Michael Goulian"
+      ],
+      "cancelled" : false,
+      "showsite" : "Richard B. Russell Regional Airport",
+      "city" : "Rome, GA"
+    },
+    {
+      "name" : "NAS Pensacola Open House - Blue Angels Homecoming Air Show",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "11/05/2021",
+      "endDate" : "11/06/2021",
+      "featuring" : [
+        "USAF A-10 Thunderbolt II Demo Team",
+        "Michael Goulian"
+      ],
+      "cancelled" : false,
+      "showsite" : "Naval Air Station Pensacola",
+      "city" : "Pensacola, FL"
+    }
+  ]
+}
