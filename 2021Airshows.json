@@ -19,6 +19,21 @@
       "cancelled" : true,
       "showsite" : "Naval Air Station Jacksonville",
       "city" : "Jacksonville, FL"
+    },
+    {
+      "name" : "Sun 'n Fun Fly-In",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/13/2021",
+      "endDate" : "4/18/2021",
+      "featuring" : [
+        "USAF F-22 Raptor Demo Team",
+        "Michael Goulian",
+        "Aeroshell Aerobatic Team",
+        "Rob Holland"
+      ],
+      "cancelled" : false,
+      "showsite" : "Lakeland Linder Regional Airport",
+      "city" : "Lakeland, FL"
     }
   ]
 }
