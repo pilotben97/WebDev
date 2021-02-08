@@ -34,6 +34,21 @@
       "cancelled" : false,
       "showsite" : "Lakeland Linder Regional Airport",
       "city" : "Lakeland, FL"
+    },
+    {
+      "name" : "MCAS Beaufort Air Show 2021",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/24/2021",
+      "endDate" : "4/25/2021",
+      "featuring" : [
+        "USAF F-16 Viper Demo Team",
+        "USMC AV-8B Harrier II Demo",
+        "USMC F-35B Lightning II Demo",
+        "Rob Holland"
+      ],
+      "cancelled" : false,
+      "showsite" : "Marine Corps Air Station Beaufort",
+      "city" : "Beaufort, SC"
     }
   ]
 }
