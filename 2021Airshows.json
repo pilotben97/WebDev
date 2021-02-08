@@ -1,5 +1,5 @@
 {
-  "title" : "Personal Airshow Calendar"
+  "title" : "Personal Airshow Calendar",
   "seasonNum" : "2021",
   "homeTown" : "Valdosta, Georgia",
   "creationDate" : "2/6/2021",
@@ -17,7 +17,7 @@
         "Michael Goulian"
       ],
       "cancelled" : true,
-      "showsite" : "Naval Air Station Jacksonville"
+      "showsite" : "Naval Air Station Jacksonville",
       "city" : "Jacksonville, FL"
     },
     {
@@ -28,11 +28,11 @@
       "featuring" : [
         "USAF F-22 Raptor Demo Team",
         "Michael Goulian",
-        "Aeroshell Aerobatic Team"
+        "Aeroshell Aerobatic Team",
         "Rob Holland"
       ],
       "cancelled" : false,
-      "showsite" : "Lakeland Linder Regional Airport"
+      "showsite" : "Lakeland Linder Regional Airport",
       "city" : "Lakeland, FL"
     },
     {
@@ -43,11 +43,11 @@
       "featuring" : [
         "USAF F-16 Viper Demo Team",
         "USMC AV-8B Harrier II Demo",
-        "USMC F-35B Lightning II Demo"
+        "USMC F-35B Lightning II Demo",
         "Rob Holland"
       ],
       "cancelled" : false,
-      "showsite" : "Marine Corps Air Station Beaufort"
+      "showsite" : "Marine Corps Air Station Beaufort",
       "city" : "Beaufort, SC"
     },
     {
@@ -59,7 +59,7 @@
         "USAF F-35A Lightning II Demo Team",
       ],
       "cancelled" : false,
-      "showsite" : "Orlando Sanford International Airport"
+      "showsite" : "Orlando Sanford International Airport",
       "city" : "Sanford, FL"
     },
     {
@@ -69,10 +69,10 @@
       "endDate" : "10/31/2021",
       "featuring" : [
         "USAF A-10 Thunderbolt II Demo Team",
-        "Michael Goulian",
+        "Michael Goulian"
       ],
       "cancelled" : false,
-      "showsite" : "Richard B. Russell Regional Airport"
+      "showsite" : "Richard B. Russell Regional Airport",
       "city" : "Rome, GA"
     },
     {
@@ -82,10 +82,10 @@
       "endDate" : "11/06/2021",
       "featuring" : [
         "USAF A-10 Thunderbolt II Demo Team",
-        "Michael Goulian",
+        "Michael Goulian"
       ],
       "cancelled" : false,
-      "showsite" : "Naval Air Station Pensacola"
+      "showsite" : "Naval Air Station Pensacola",
       "city" : "Pensacola, FL"
     }
   ]
