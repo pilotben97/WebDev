@@ -1,0 +1,54 @@
+{
+  "title" : "Personal Airshow Calendar",
+  "seasonNum" : "2021",
+  "homeTown" : "Valdosta, Georgia",
+  "creationDate" : "2/6/2021",
+  "creatorName" : "Benjamin Dudley",
+  "active" : true,
+  "airshows" : [
+    {
+      "name" : "NAS JAX Air Show",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/10/2021",
+      "endDate" : "4/11/2021",
+      "featuring" : [
+        "USAF F-22 Raptor Demo Team",
+        "USN P-8 Poseidon Demo",
+        "Michael Goulian"
+      ],
+      "cancelled" : true,
+      "showsite" : "Naval Air Station Jacksonville",
+      "city" : "Jacksonville, FL"
+    },
+    {
+      "name" : "Sun 'n Fun Fly-In",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/13/2021",
+      "endDate" : "4/18/2021",
+      "featuring" : [
+        "USAF F-22 Raptor Demo Team",
+        "Michael Goulian",
+        "Aeroshell Aerobatic Team",
+        "Rob Holland"
+      ],
+      "cancelled" : false,
+      "showsite" : "Lakeland Linder Regional Airport",
+      "city" : "Lakeland, FL"
+    },
+    {
+      "name" : "MCAS Beaufort Air Show 2021",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/24/2021",
+      "endDate" : "4/25/2021",
+      "featuring" : [
+        "USAF F-16 Viper Demo Team",
+        "USMC AV-8B Harrier II Demo",
+        "USMC F-35B Lightning II Demo",
+        "Rob Holland"
+      ],
+      "cancelled" : false,
+      "showsite" : "Marine Corps Air Station Beaufort",
+      "city" : "Beaufort, SC"
+    }
+  ]
+}
