@@ -1,0 +1,85 @@
+{
+  "title" : "Personal Airshow Calendar",
+  "seasonNum" : "2020",
+  "homeTown" : "Valdosta, Georgia",
+  "creationDate" : "2/8/2021",
+  "creatorName" : "Benjamin Dudley",
+  "active" : true,
+  "airshows" : [
+    {
+      "name" : "MacDill AFB Tampa Bay AirFest 2020",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "3/28/2020",
+      "endDate" : "4/29/2020",
+      "featuring" : [
+        "USAF F-22 Raptor Demo Team"
+      ],
+      "cancelled" : true,
+      "showsite" : "MacDill Air Force Base",
+      "city" : "Tampa, FL"
+    },
+    {
+      "name" : "JB Charleston Air and Space Expo",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "4/18/2020",
+      "endDate" : "4/19/2020",
+      "featuring" : [
+        "USAF A-10 Thunderbolt II Demo Team",
+        "USAF F-35A Lightning II Demo Team",
+        "USAF C-17 Globemaster III Demo",
+        "USCG MH-65 Dolphin Search & Rescue Demo"
+      ],
+      "cancelled" : true,
+      "showsite" : "Charleston Air Force Base/International Airport",
+      "city" : "Charleston, SC"
+    },
+    {
+      "name" : "Operation America Strong Flyover",
+      "headliner" : "USN Blue Angels, USAF Thunderbirds",
+      "startDate" : "5/02/2020",
+      "endDate" : "5/02/2020",
+      "featuring" : [
+        "N/A"
+      ],
+      "cancelled" : false,
+      "showsite" : "Downtown Atlanta Hospitals",
+      "city" : "Atlanta, GA"
+    },
+    {
+      "name" : "Atlanta Air Show",
+      "headliner" : "USAF F-35A Lightning II Demo Team",
+      "startDate" : "5/16/2020",
+      "endDate" : "5/17/2020",
+      "featuring" : [
+        "USMC AV-8B Harrier II Demo"
+      ],
+      "cancelled" : true,
+      "showsite" : "Atlanta Regional Airport - Falcon Field",
+      "city" : "Peachtree City, GA"
+    },
+    {
+      "name" : "NAS Pensacola Open House - Blue Angels Homecoming Air Show",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "10/16/2021",
+      "endDate" : "10/17/2021",
+      "featuring" : [
+        "USAF F-22 Demo Team"
+      ],
+      "cancelled" : true,
+      "showsite" : "Naval Air Station Pensacola",
+      "city" : "Pensacola, FL"
+    },
+    {
+      "name" : "Blue Angels Legacy Hornet Sundown Flyover",
+      "headliner" : "USN Blue Angels",
+      "startDate" : "11/04/2021",
+      "endDate" : "11/04/2021",
+      "featuring" : [
+        "N/A"
+      ],
+      "cancelled" : false,
+      "showsite" : "Pensacola/Pensacola Beach Area",
+      "city" : "Pensacola, FL"
+    }
+  ]
+}
